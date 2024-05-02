@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Data Science (So i`m studying Python, SQL, Dax and M)
+- 🌱 I’m currently learning Data Science (So i'm studying Python, SQL, Dax and M)
 - 🤔 I’m looking for help with coding
 - ⚡ Fun fact: I'm 163cm tall...
 
