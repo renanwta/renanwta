@@ -1,5 +1,5 @@
 ### Hi there, I'm Renan Eiji
-
+- 🎓 I'm graduated in Production Engineer from UFMS - Universidade Federal de Mato Grosso do Sul
 - 🌱 I’m currently learning Data Science (So i'm studying Python, SQL, Dax and M)
 - 🤔 I’m looking for help with coding
 - ⚡ Fun fact: I'm 163cm tall...
