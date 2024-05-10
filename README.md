@@ -19,8 +19,8 @@ ________________________________________________
 </div>
 
 
-
+<div> 
 ![snake gif](https://github.com/renanwta/renanwta/blob/output/github-contribution-grid-snake.svg)
-
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,py,mysql)](https://skillicons.dev)
