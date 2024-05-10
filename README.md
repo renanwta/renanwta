@@ -19,6 +19,3 @@ ________________________________________________
 </div>
 
 
-https://github.com/renanwta/renanwta/blob/output/github-contribution-grid-snake.gif
-
-![snake gif](https://github.com/renanwta/renanwta/blob/output/github-contribution-grid-snake-dark.svg)
