@@ -21,3 +21,6 @@ ________________________________________________
 
 
 ![snake gif](https://github.com/renanwta/renanwta/blob/output/github-contribution-grid-snake.svg)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
