@@ -20,4 +20,4 @@ ________________________________________________
 
 
 
-![snake gif](https://github.com/renanwta/renanwta/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/renanwta/renanwta/blob/output/github-contribution-grid-snake.svg)
